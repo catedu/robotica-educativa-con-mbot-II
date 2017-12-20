@@ -9,6 +9,7 @@ Realizar un programa que "siga la luz"
 
 %accordion%Solución%accordion%
 
-(img/robotpolilla.png)
+
+![](/img/robotpolilla.png)
 
 %/accordion%
