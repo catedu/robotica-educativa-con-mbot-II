@@ -4,9 +4,11 @@
 El [acelerómetro gyro 3 ejes ](https://www.makeblock.es/productos/sensor_acelerometro_gyro/)detecta en grados su inclinación en tres ejes:
 
 ![](img/EL_GYRO_makeblock_EL_GYRO.jpg)
+
 Su función en mBlock es la siguiente: 
 
 ![](img/instrucciongyro.png)
+7
 En teoría como se puede ver en esta página de Makeblock.com puede comunicar los grados al mBloc pero no nos ha funcionado. Si alguien le funciona por favor que nos escriba.
 
 **Sólo nos ha funcionado con el robot funcionando independientemente del ordenadorm modo autónomo**. ([Upload to Arduino](http://aularagon.catedu.es/materialesaularagon2013/mbot/M3/upload_to_arduino.html))
