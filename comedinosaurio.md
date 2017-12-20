@@ -12,11 +12,8 @@ El murciélago tiene que esquivarlo ¿cómo? volando arriba o abajo pero.... con
 - La variable COMIDO cuenta las veces que el dinosaurio toca al murciélago
 
 ![](img/come-bat-dinosario.png)
-**Fuente: Captura de pantalla mBlock. Programa: el autor.**
 
-<script type="text/javascript">var feedback47_93text = "Mostrar retroalimentación";</script><input type="button" name="toggle-feedback-47_93" value="Mostrar retroalimentación" class="feedbackbutton" onclick="$exe.toggleFeedback(this,true);return false" />
-
-### Retroalimentación
+%accordion%Solución%accordion%
 
 Aquí está la respuesta
 
@@ -28,7 +25,8 @@ Programa murciélago:
 Programa del dinosaurio:
 
 ![](img/dinosaurio.png)
-**Fuente: Captura de pantalla mBlock. Programa: el autor.**
+
+%/accordion%
 
 La interacción de elementos de Scratch como este caso el dinosario y el murciélago con sensores del mBot es un recurso para que el producto final sea totalmente interactivo con elementos físicos diferentes al teclado y ratón. 
 
