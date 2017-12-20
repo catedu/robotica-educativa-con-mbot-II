@@ -14,19 +14,19 @@ Hay que instalar la versión antigua 3.2.x[ que te lo puedes descargar aquí.](h
 1. Haces el programa mBot infantil
 1. Cuando acabes ya puedes desinstalar la 3.2.x e instalar la versión actual de mBlock
 
-**Agradecimientos a **Jose Miguel Guerrero** que halló la solución al problema, durante años asesor TIC del CIFE Juan de Lanuza, y apasionado de estos chismes.**
+A_gradecimientos a Jose Miguel Guerrero que halló la solución al problema, durante años asesor TIC del CIFE Juan de Lanuza, y apasionado de estos chismes._
 
 En infantil se puede empezar el pensamiento computacional con la programación de secuencias en movimiento. Hay robots especializados, uno de ellos es el **bee bot**
 
 {% youtube %}https//www.youtube.com/watch?v=BMFQk9jzYpA{% endyoutube %}
-**¿Estas interesado en el BeeBot?** [Aquí tienes el curso de BeeBot de Aularagón](http://aularagon.catedu.es/materialesaularagon2013/BeeBot/M1/) (con préstamo de robot incluido)
+**¿Estas interesado en el BeeBot?** [[Aquí tienes el curso de BeeBot de Aularagón]](https://www.gitbook.com/book/catedu/robotica-en-infantil-con-bee-bot/details) (con préstamo de robot incluido)
 
 Pero ¿se podría usar nuestro mBot en infantil?  : (Idea autor Santiago Albesa Benavente - CATEDU)
 
 {% youtube %}https//www.youtube.com/watch?v=utqBaDE5BK0{% endyoutube %}
 # ¿Dónde está el programa?
 
-[Aquí tienes el programa](mBot-Infantil.ino) (ino - 9.27 [Descarga alternativa en GitHub](https://github.com/JavierQuintana/mBot.git)]
+[[Aquí tienes el programa]](http://aularagon.catedu.es/materialesaularagon2013/mbot/M1plus/mBot-Infantil.ino) (ino - 9.27 [Descarga alternativa en GitHub](https://github.com/JavierQuintana/mBot.git)]
 
 # ¿Cómo se graba ese programa .ino en el mBot?
 
