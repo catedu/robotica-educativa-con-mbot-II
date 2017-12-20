@@ -3,7 +3,7 @@
 
 ## Propuesta
 
-## Nivel 4ºESO BACH APLICACIÓN DE LAS MATEMÁTICAS A LA ROBÓTICA
+Nivel: finales de la ESO APLICACIÓN DE LAS MATEMÁTICAS A LA ROBÓTICA
 
 Es importante que no perdamos que el mBot PUEDE INTERACCIONAR con los personajes del mBlock (o Scratch) ENRIQUECIENDO LA INTERACCIÓN
 
@@ -13,15 +13,15 @@ El siguiente ejemplo, el fantasma se mueve verticalmente SEGUN LA DISTANCIA d DE
 Hay dos contadores para cuantificar las manzanas ganadas o perdidas, un vídeo es la mejor muestra:
 
 {% youtube %}https//www.youtube.com/watch?v=xmPKqIwFBIU?wmode=transparent{% endyoutube %}
-<script type="text/javascript">var feedback10_93text = "Solución";</script><input type="button" name="toggle-feedback-10_93" value="Solución" class="feedbackbutton" onclick="$exe.toggleFeedback(this,false);return false" />
 
-### Retroalimentación
 
-El programa [te lo puedes descargar aquí](http://localhost:51235/M1plus/resources/comemanzanas.sb2)
+%accordion%Solución%accordion%
+
+El programa [[te lo puedes descargar aquí](http://localhost:51235/M1plus/resources/comemanzanas.sb2)]
 
 ## MATEMÁTICAS
 
-se ha fijado como criterio la distancia de 5cm arriba del todo (y=180) y la distancia de 40cm abajo del todo (y=-150).
+Se ha fijado como criterio la distancia de 5cm arriba del todo (y=180) y la distancia de 40cm abajo del todo (y=-150).
 
 ![](img/comemanzanas2.png)
 Tenemos que convertir la distancia d que mide el robot con la variable y con una regresión lineal y= m + n * d tenemos un sistema de ecuaciones con las dos condiciones anteriores:
