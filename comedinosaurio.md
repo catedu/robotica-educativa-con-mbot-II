@@ -17,7 +17,7 @@ El murciélago tiene que esquivarlo ¿cómo? volando arriba o abajo pero.... con
 
 Aquí está la respuesta
 
-[Fichero de descarga](comer-bat-dino.sb2)
+[[Fichero de descarga](http://aularagon.catedu.es/materialesaularagon2013/mbot/M1plus/comer-bat-dino.sb2)]
 
 Programa murciélago:
 
@@ -28,7 +28,7 @@ Programa del dinosaurio:
 
 %/accordion%
 
-La interacción de elementos de Scratch como este caso el dinosario y el murciélago con sensores del mBot es un recurso para que el producto final sea totalmente interactivo con elementos físicos diferentes al teclado y ratón. 
+La interacción de elementos de Scratch, como este caso el dinosario y el murciélago con sensores del mBot, es un recurso para que el producto final sea totalmente interactivo con elementos físicos diferentes al teclado y ratón. 
 
 En este vídeo podemos ver un ejemplo:
 
