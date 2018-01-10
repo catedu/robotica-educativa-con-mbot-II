@@ -19,7 +19,7 @@
 
 * [M2 mBot plus](index1.md)
 * [Acelerómetro y Gyro 3 ejes](acelermetro_y_gyro_3_ejes.md)
-* [Potencií³metro](potencimetro.md)
+* [Potenciómetro](potencimetro.md)
 * [Sensor sonido](sensor_sonido.md)
 * [Sensor IR](sensor_ir.md)
 * [Sensor PIR](sensor_pir.md)
