@@ -25,6 +25,7 @@ El programa [[te lo puedes descargar aquí](http://localhost:51235/M1plus/resou
 Se ha fijado como criterio la distancia de 5cm arriba del todo (y=180) y la distancia de 40cm abajo del todo (y=-150).
 
 ![](img/comemanzanas2.png)
+
 Tenemos que convertir la distancia d que mide el robot con la variable y con una regresión lineal y= m + n * d tenemos un sistema de ecuaciones con las dos condiciones anteriores:
 
 - -150=m+n*40
@@ -35,6 +36,10 @@ Resolviendo sale m=132.85 y n=-9.47 luego la ecuación de la y es y=132.85-9.47*
 ## Manzana
 
 ![](img/manzana.png)
+
 ## Fantasma
 
 ![](img/fantasma.png)
+
+%/accordion%
+
