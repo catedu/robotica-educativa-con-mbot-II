@@ -9,7 +9,7 @@ Su función en mBlock es la siguiente: 
 
 ![](img/instrucciongyro.png)
 
-En teoría como se puede ver [en esta página de Makeblock.com](https://www.makeblock.es/productos/sensor_acelerometro_gyro/) puede comunicar los grados al mBloc pero no nos ha funcionado (_en la versión 3.4, a lo mejor con la actual ya funciona_).
+En teoría como se puede ver [en esta página de Makeblock.com](https://www.makeblock.es/productos/sensor_acelerometro_gyro/) puede comunicar los grados al mBlock pero no nos ha funcionado (_en la versión 3.4, a lo mejor con la actual ya funciona_).
 
 **Sólo nos ha funcionado con el robot funcionando independientemente del ordenador = modo autónomo**. ([Upload to Arduino](http://aularagon.catedu.es/materialesaularagon2013/mbot/M3/upload_to_arduino.html))
 
