@@ -4,7 +4,8 @@
 El potenciómetro indica en grados el giro que le damos en su mando:
 
 ![](img/EL_POTEN_makeblock_EL_POTEN.jpg)
-Al ser negro, sólo se puede usar el puerto 3 o 4. La instrucción en mBlock es la siguiente:
+
+Al ser negro el conector hembra, sólo se puede usar el puerto 3 o 4. La instrucción en mBlock es la siguiente:
 
 ![](img/instruccpoten.png)
 
