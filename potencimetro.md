@@ -24,6 +24,7 @@ El potenciómetro permite interactuar con el movimiento de un personaje de mBloc
 Programa del murciélago:
 
 ![](img/comedinopoten-bat.png)
+
 Programa del dinosaurio
 
 ![](img/comedinopoten-dino.png)
