@@ -22,6 +22,7 @@ Aquí está la respuesta
 Programa murciélago:
 
 ![](img/murcielago.png)
+
 Programa del dinosaurio:
 
 ![](img/dinosaurio.png)
