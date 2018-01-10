@@ -32,6 +32,6 @@
 * [Garra y el brazo articulado](garra_y_el_brazo_articulado.md)
   * [Tira latas con teclado](tira_latas_con_teclado.md)
   * [Tira latas con mando](tira_latas_con_mando.md)
-  * [Tira latas automí¡tico](tira_latas_automtico.md)
+  * [Tira latas automático](tira_latas_automtico.md)
 * [Créditos](creditos.md)
 
