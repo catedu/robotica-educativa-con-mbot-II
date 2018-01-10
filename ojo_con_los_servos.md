@@ -1,15 +1,16 @@
 
-# Ojo con los servos
+![](/assets/MT_SERVO_9G_makeblock_MT_SERVO_9G.jpg)
 
-![](MT_SERVO_9G_makeblock_MT_SERVO_9G.jpg)
 ## <br />Funcionamiento
 
 Los servos se tienen que conectar a través del[ ADAPTADOR RJ45](https://www.makeblock.es/productos/adaptador_rj25/) por lo tanto se pueden conectar DOS SERVOS en Slot1 y en Slot2 en el adaptador 
 
-![](http://learn.makeblock.com/wp-content/uploads/2016/01/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20160128162440.png)
+![](/assets/servo.png)
+
 La instrucción de gobierno es "fijar servo" donde hay que especificar el puerto donde está conectado el Adaptador, y dentro del adaptador, a que slot está conectado, y finalmente cual es el ángulo que queremos que se fije el rotor
 
 ![](img/fijarservo.png)
+
 ## Ojo con ellos
 
 Hay que tener en cuenta:
