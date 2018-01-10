@@ -19,6 +19,7 @@ A_gradecimientos a Jose Miguel Guerrero que halló la solución al problema, dur
 En infantil se puede empezar el pensamiento computacional con la programación de secuencias en movimiento. Hay robots especializados, uno de ellos es el **bee bot**
 
 {% youtube %}https//www.youtube.com/watch?v=BMFQk9jzYpA{% endyoutube %}
+
 **¿Estas interesado en el BeeBot?** [[Aquí tienes el curso de BeeBot de Aularagón]](https://www.gitbook.com/book/catedu/robotica-en-infantil-con-bee-bot/details) (con préstamo de robot incluido)
 
 Pero ¿se podría usar nuestro mBot en infantil?  : (Idea autor Santiago Albesa Benavente - CATEDU)
