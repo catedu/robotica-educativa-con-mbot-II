@@ -14,7 +14,8 @@ Nosotros elegiremos la matriz, pues el sensor de distancia nos ha dado problemas
 ![](img/mini_garra.gif)
 
 
-OJO con el brazo articulado: Su construcción es compleja, no recomendable para delegarlo a los alumnos. La U formada por la parte metáliza y las piezas de plástico transparente, si están algo abierto (flechas verdes) hace que el relé A que está enmedio de la U se caiga constantemente, hay que ajustar la U lo suficiente para que entre el relé primero entrando el relé A, luego colocar el tornillo B y finalmente el relé exterior, en ese orden, de lo contrario estaremos obligados a abrir la U para colocar el relé A y se caerá constantemente.
+**OJO con el brazo articulado: Su construcción es compleja**, no es recomendable delegarlo a los alumnos:
+La U formada por la parte metáliza y las piezas de plástico transparente, si están algo abierto (flechas verdes) hace que el relé A que está enmedio de la U se caiga constantemente, hay que ajustar la U lo suficiente para que entre el relé primero entrando el relé A, luego colocar el tornillo B y finalmente el relé exterior, en ese orden, de lo contrario estaremos obligados a abrir la U para colocar el relé A y se caerá constantemente.
 
 ![](img/brazoarticulado.png)
 
