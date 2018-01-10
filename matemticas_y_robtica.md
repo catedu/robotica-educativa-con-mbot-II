@@ -10,6 +10,7 @@ Es importante que no perdamos que el mBot PUEDE INTERACCIONAR con los personajes
 El siguiente ejemplo, el fantasma se mueve verticalmente SEGUN LA DISTANCIA d DE ULTRASONIDOS y la manzana se mueve horizontalmente y la posición vertical es aleatoria:
 
 ![](img/comemanzanas1.png)
+
 Hay dos contadores para cuantificar las manzanas ganadas o perdidas, un vídeo es la mejor muestra:
 
 {% youtube %}https//www.youtube.com/watch?v=xmPKqIwFBIU?wmode=transparent{% endyoutube %}
