@@ -15,7 +15,7 @@ En teoría como se puede ver [en esta página de Makeblock.com](https://www.make
 
 Si tienes deriva en el eje Z aquí tienes a solución [vídeo youtube](https://www.youtube.com/watch?v=EpmbZtbfs9Y)
 
-## Ejemplo de uso
+## Reto
 
 Suponte que quieres hacer un mando con el giroscopio.
 
@@ -27,12 +27,12 @@ Un vídeo lo explica mejor:
 
 {% youtube %}https//www.youtube.com/watch?v=lczO3UDKwaQ{% endyoutube %}
 
-<script type="text/javascript">var feedback1_93text = "Mostrar retroalimentación";</script><input type="button" name="toggle-feedback-1_93" value="Mostrar retroalimentación" class="feedbackbutton" onclick="$exe.toggleFeedback(this,true);return false" />
+%accordion%Solución%accordion%
 
-### Retroalimentación
-
-La solución es :
 
 ![](img/programamandogyro.png)
+
 el 10* es porque los grados son demasiado pequeños para hacer una velocidad rápida.
+
+%/accordion%
 
