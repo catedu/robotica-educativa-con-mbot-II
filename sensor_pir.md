@@ -23,6 +23,6 @@ Un ejemplo podría ser que detecte una persona, y el panda del mBlock nos salude
 
 %accordion%Solución%accordion%
 
-![](http://learn.makeblock.com/en/wp-content/uploads/2016/01/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20160129150427.png)
+![](/assets/saluda.png)
 
 %/accordion%
