@@ -20,6 +20,6 @@ Hay que tener en cuenta:
 - La fijación con la estructura de plástico es a través de unos tornillos muy pequeños, que requiere destreza. La estructura de plástico se rompe si se fuerza el priete de los tornillos.
 - No tienen mucha fuerza, si nos excedemos se rompen los engranajes de plástico. Si deseamos servos con más fuerza es mejor usar l[os Motores Servo](https://www.makeblock.es/productos/servo/)
 
-Una manera de no forzar el relé si no está en la situación deseada inicial, es desmontar y montar el soporte en la posición deseada, antes que forzar, un vídeo lo explica mejor:
+Si el relé si no está en la situación deseada inicial, lo mejor es desmontar y montar el soporte en la posición deseada, un vídeo lo explica mejor:
 
 {% youtube %}https//www.youtube.com/watch?v=XfSq_KTlBSU{% endyoutube %}
