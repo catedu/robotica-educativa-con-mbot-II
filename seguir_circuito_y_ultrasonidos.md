@@ -1,6 +1,6 @@
 # Seguir circuito y ultrasonidos
 
-En Internet hemos econtrado el siguiente ejemplo:
+En Internet hemos encontrado el siguiente ejemplo:
 
 Reto: Se ve mejor [con un vídeo](https://twitter.com/davidsanlo78/status/738665911784202240)
 
