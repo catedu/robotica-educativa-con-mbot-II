@@ -16,7 +16,8 @@ La instrucción de gobierno es "fijar servo" donde hay que especificar el puerto
 Hay que tener en cuenta:
 
 - NO HAY QUE FORZARLOS los servos fijan el rotor en el ángulo determinado por la instrucción fijar servo, al forzarlo **se rompen los engranajes de plástico que son delicados** y es típico que los chavales, al no estar el servo en la posición deseada, con la mano lo fuerzen.
-- PICOS DE TENSIÓN los cables están protegidos con un cilindro magnético para absorber los los picos causados por los contínuos arranques, paradas e inversiones de giro propios del servo, aún así se producen y LAS BATERÍAS ESPECIALMENTE LAS RECARGABLES SE QUEDAN SIN ENERGÍA muy rápidamente
+- PICOS DE TENSIÓN los cables están protegidos con un cilindro magnético para absorber los los picos causados por los contínuos arranques, paradas e inversiones de giro propios del servo, aún así se producen y LAS BATERÍAS ESPECIALMENTE LAS RECARGABLES SE QUEDAN SIN ENERGÍA muy rápidamente.
+- **No te desesperes** si ves que mBot no hace lo que habías programado, suele bloquearse con esos picos de tensión, especialmente si pones más de un servo **¿entonces la garra y el brazo?** pues sí, no va muy bien.
 - La fijación con la estructura de plástico es a través de unos tornillos muy pequeños, que requiere destreza. La estructura de plástico se rompe si se fuerza el priete de los tornillos.
 - No tienen mucha fuerza, si nos excedemos se rompen los engranajes de plástico. Si deseamos servos con más fuerza es mejor usar l[os Motores Servo](https://www.makeblock.es/productos/servo/)
 
