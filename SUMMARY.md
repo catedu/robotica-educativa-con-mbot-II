@@ -33,5 +33,6 @@
   * [Tira latas con teclado](tira_latas_con_teclado.md)
   * [Tira latas con mando](tira_latas_con_mando.md)
   * [Tira latas automático](tira_latas_automtico.md)
+* [Grupo Robótica Educativa Aragón](grupo-robotica-educativa-aragon.md)
 * [Créditos](creditos.md)
 
