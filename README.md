@@ -6,6 +6,5 @@ En este curso vamos a utilizar los posibles "gadgets" que tiene mBot y propuesta
 
 ![](/assets/HERALDO-jpg.jpg)
 
-
-
+{% include "git+https://github.com/catedu/robotica.git/README.md" %}
 
