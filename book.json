@@ -1,1 +1,22 @@
-{"plugins": ["youtube", "accordion", "edit-link", "githubcontributors"], "pluginsConfig": {"edit-link": {"base": "https://github.com/catedu/robotica-educativa-con-mbot-II/edit/master", "label": "Edita esta página"}, "githubcontributors": {"githubOwner": "catedu", "githubRepository": "robotica-educativa-con-mbot-II"}}}
+{
+  "plugins": [
+    "youtube",
+    "accordion",
+    "edit-link",
+    "githubcontributors",
+    "ga"
+  ],
+  "pluginsConfig": {
+    "edit-link": {
+      "base": "https://github.com/catedu/robotica-educativa-con-mbot-II/edit/master",
+      "label": "Edita esta página"
+    },
+    "githubcontributors": {
+      "githubOwner": "catedu",
+      "githubRepository": "robotica-educativa-con-mbot-II"
+    },
+    "ga": {
+      "token": "UA-135691041-2"
+    }
+  }
+}
