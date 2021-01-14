@@ -7,9 +7,9 @@ El sensor de IR puede recibir del mando números, letras A-D, flechas y el botó
 
 Fuente: Tutorial de [http://makeblock.es](http://makeblock.es/)
 
-Realizar programas con el sensor de IR tiene una dificultad:** NO SE PUEDE HACER A TRAVÉS DEL ORDENADOR** es decir, no se puede realizar como lo hemos hecho hasta ahora: Bandera y comunicación entre PC y mBot ¿Por qué? porque el mBot tiene instalado en esta configuración el programa por defecto **Firmware de fábrica** y en este firmware tiene cargado un script de leer el mando, y no podemos saltarlo. **[Ver M1 Dos formas de funcionar mBot](https://catedu.gitbooks.io/robotica-educativa-con-mbot/content/dependiendo_del_ordenador__qu_es.html).**
+Realizar programas con el sensor de IR tiene una dificultad:** NO SE PUEDE HACER A TRAVÉS DEL ORDENADOR** es decir, no se puede realizar como lo hemos hecho hasta ahora: Bandera y comunicación entre PC y mBot ¿Por qué? porque el mBot tiene instalado en esta configuración el programa por defecto **Firmware de fábrica** y en este firmware tiene cargado un script de leer el mando, y no podemos saltarlo. **[Ver M1 Dos formas de funcionar mBot](https://catedu.github.io/robotica-educativa-con-mbot/dependiendo_del_ordenador__qu_es.html).**
 
-¿Cómo pues? Utilizando la otra configuración:** mBot independiente del ordenador**, con la desventaja de no poder interactuar con los elementos de Scracth, para usar este modo, hay que consultar el [M3 en el apartado** Upload to Arduino**](https://catedu.gitbooks.io/robotica-educativa-con-mbot/content/upload_to_arduino.html): 
+¿Cómo pues? Utilizando la otra configuración:** mBot independiente del ordenador**, con la desventaja de no poder interactuar con los elementos de Scracth, para usar este modo, hay que consultar el [M3 en el apartado** Upload to Arduino**](https://catedu.github.io/robotica-educativa-con-mbot/upload_to_arduino.html): 
 
 Otro programa interesante es el que convierte mBot en un robot apropiado para **infantil**, utilizando el mando a distancia: [Ver módulo anterior](/mbot_en_infantil.md)
 

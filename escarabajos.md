@@ -33,7 +33,7 @@ Nuestra propuesta es realizar un programa que el escarabajo no salga de una lín
 
 %accordion%Solución%accordion%
 
-La solución es la misma que en el curso de [mBot I](https://catedu.gitbooks.io/robotica-educativa-con-mbot/content/sensor_de_lnea.html), es exáctamente igual:
+La solución es la misma que en el curso de [mBot I](https://catedu.github.io/robotica-educativa-con-mbot/sensor_de_lnea.html), es exáctamente igual:
 
 Este programa funciona mejor grabandolo en el Arduino
 
